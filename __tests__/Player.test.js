@@ -1,8 +1,8 @@
-const Potion = require('../lib/Potion');
+import Potion from '../lib/Potion.js';
 
-jest.mock('../lib/Potion');
+jest.mock('../lib/Potion.js');
 
-const Player = require('../lib/Player');
+import Player from '../lib/Player.js';
 
 test('creates a player object', () => {
   const player = new Player('Dave');
