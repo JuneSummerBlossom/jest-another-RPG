@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneSummerBlossom/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneSummerBlossom/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/JuneSummerBlossom/jest-another-RPG#readme",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.4.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
